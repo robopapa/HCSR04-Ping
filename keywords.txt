@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map for Ping
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Ping	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Ping	KEYWORD2
+Distance KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+CENTIMETERS	LITERAL1
+INCHES	LITERAL1
+CENTIMETERS_FACTOR LITERAL1
+INCHES_FACTOR LITERAL1
